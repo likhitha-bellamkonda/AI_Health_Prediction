@@ -1,0 +1,501 @@
+Glucose,Haemoglobin,Cholesterol,Condition
+172,11,212,Healthy
+84,15,308,Heart Disease Risk
+90,14,241,Healthy
+144,15,236,Healthy
+169,15,271,Heart Disease Risk
+200,13,172,Diabetes Risk
+71,15,277,Heart Disease Risk
+107,9,311,Heart Disease Risk
+90,8,323,Heart Disease Risk
+127,13,208,Healthy
+118,17,339,Heart Disease Risk
+84,10,227,Healthy
+124,11,183,Healthy
+200,12,170,Diabetes Risk
+204,12,192,Diabetes Risk
+236,9,251,Diabetes Risk
+158,9,128,Healthy
+159,12,249,Healthy
+153,14,291,Heart Disease Risk
+77,10,325,Heart Disease Risk
+150,11,169,Healthy
+173,11,121,Healthy
+203,13,225,Diabetes Risk
+73,13,340,Heart Disease Risk
+215,17,163,Diabetes Risk
+231,17,309,Diabetes & Heart Disease Risk
+83,15,325,Heart Disease Risk
+109,12,327,Heart Disease Risk
+151,12,143,Healthy
+223,16,307,Diabetes & Heart Disease Risk
+193,16,276,Diabetes & Heart Disease Risk
+84,8,208,Healthy
+140,16,207,Healthy
+198,15,335,Diabetes & Heart Disease Risk
+132,10,200,Healthy
+205,10,282,Diabetes & Heart Disease Risk
+102,12,160,Healthy
+97,14,320,Heart Disease Risk
+141,9,152,Healthy
+117,14,270,Heart Disease Risk
+131,15,156,Healthy
+168,15,333,Heart Disease Risk
+104,8,346,Heart Disease Risk
+170,10,120,Healthy
+74,17,261,Heart Disease Risk
+172,16,326,Heart Disease Risk
+84,17,161,Healthy
+193,10,182,Diabetes Risk
+165,14,171,Healthy
+165,11,341,Heart Disease Risk
+220,14,262,Diabetes & Heart Disease Risk
+240,11,132,Diabetes Risk
+229,14,306,Diabetes & Heart Disease Risk
+155,9,289,Heart Disease Risk
+114,16,253,Healthy
+97,11,149,Healthy
+144,17,211,Healthy
+198,16,146,Diabetes Risk
+190,11,324,Diabetes & Heart Disease Risk
+72,14,317,Heart Disease Risk
+224,16,181,Diabetes Risk
+234,8,170,Diabetes Risk
+241,15,326,Diabetes & Heart Disease Risk
+128,13,279,Heart Disease Risk
+165,15,299,Heart Disease Risk
+182,8,305,Diabetes & Heart Disease Risk
+121,14,249,Healthy
+200,8,220,Diabetes Risk
+182,15,200,Diabetes Risk
+182,9,249,Diabetes Risk
+123,14,348,Heart Disease Risk
+198,10,245,Diabetes Risk
+199,12,291,Diabetes & Heart Disease Risk
+229,13,279,Diabetes & Heart Disease Risk
+137,14,322,Heart Disease Risk
+192,8,157,Diabetes Risk
+93,12,235,Healthy
+167,13,333,Heart Disease Risk
+208,8,320,Diabetes & Heart Disease Risk
+193,13,327,Diabetes & Heart Disease Risk
+162,10,267,Heart Disease Risk
+233,10,209,Diabetes Risk
+216,11,215,Diabetes Risk
+121,16,280,Heart Disease Risk
+237,14,201,Diabetes Risk
+173,8,130,Healthy
+247,14,278,Diabetes & Heart Disease Risk
+111,10,126,Healthy
+213,17,231,Diabetes Risk
+129,8,121,Healthy
+198,12,156,Diabetes Risk
+229,14,128,Diabetes Risk
+168,10,167,Healthy
+200,11,271,Diabetes & Heart Disease Risk
+123,15,280,Heart Disease Risk
+221,11,194,Diabetes Risk
+182,15,283,Diabetes & Heart Disease Risk
+235,15,203,Diabetes Risk
+181,16,218,Diabetes Risk
+222,9,247,Diabetes Risk
+179,9,313,Heart Disease Risk
+123,10,327,Heart Disease Risk
+238,11,280,Diabetes & Heart Disease Risk
+137,8,261,Heart Disease Risk
+90,11,247,Healthy
+205,14,314,Diabetes & Heart Disease Risk
+214,8,295,Diabetes & Heart Disease Risk
+184,13,238,Diabetes Risk
+91,13,349,Heart Disease Risk
+178,10,301,Heart Disease Risk
+77,9,140,Healthy
+99,8,147,Healthy
+180,8,316,Heart Disease Risk
+130,10,123,Healthy
+104,8,136,Healthy
+241,12,125,Diabetes Risk
+168,16,156,Healthy
+93,8,165,Healthy
+164,10,307,Heart Disease Risk
+185,12,279,Diabetes & Heart Disease Risk
+230,10,247,Diabetes Risk
+87,16,342,Heart Disease Risk
+123,17,186,Healthy
+173,15,233,Healthy
+101,13,270,Heart Disease Risk
+196,17,249,Diabetes Risk
+86,15,280,Heart Disease Risk
+206,13,295,Diabetes & Heart Disease Risk
+108,17,145,Healthy
+168,9,272,Heart Disease Risk
+221,17,254,Diabetes Risk
+126,11,292,Heart Disease Risk
+89,8,127,Healthy
+213,10,334,Diabetes & Heart Disease Risk
+212,9,185,Diabetes Risk
+101,14,310,Heart Disease Risk
+155,10,272,Heart Disease Risk
+132,13,177,Healthy
+127,13,168,Healthy
+249,17,189,Diabetes Risk
+84,13,307,Heart Disease Risk
+170,8,127,Healthy
+122,12,222,Healthy
+75,11,213,Healthy
+116,10,174,Healthy
+237,11,263,Diabetes & Heart Disease Risk
+82,9,243,Healthy
+175,10,264,Heart Disease Risk
+189,10,211,Diabetes Risk
+127,14,209,Healthy
+186,14,246,Diabetes Risk
+206,12,248,Diabetes Risk
+127,17,120,Healthy
+103,13,167,Healthy
+158,15,236,Healthy
+198,14,311,Diabetes & Heart Disease Risk
+138,13,212,Healthy
+145,17,263,Heart Disease Risk
+248,12,205,Diabetes Risk
+98,12,166,Healthy
+163,11,316,Heart Disease Risk
+213,17,337,Diabetes & Heart Disease Risk
+245,12,158,Diabetes Risk
+169,8,341,Heart Disease Risk
+170,14,129,Healthy
+138,11,153,Healthy
+249,17,266,Diabetes & Heart Disease Risk
+165,8,188,Healthy
+73,15,199,Healthy
+71,8,339,Heart Disease Risk
+197,11,271,Diabetes & Heart Disease Risk
+209,9,282,Diabetes & Heart Disease Risk
+193,8,280,Diabetes & Heart Disease Risk
+248,12,131,Diabetes Risk
+136,8,280,Heart Disease Risk
+237,17,162,Diabetes Risk
+113,9,154,Healthy
+150,17,127,Healthy
+162,17,321,Heart Disease Risk
+159,9,234,Healthy
+174,14,315,Heart Disease Risk
+127,12,233,Healthy
+144,15,283,Heart Disease Risk
+90,16,283,Heart Disease Risk
+207,12,320,Diabetes & Heart Disease Risk
+221,10,296,Diabetes & Heart Disease Risk
+168,11,329,Heart Disease Risk
+165,15,270,Heart Disease Risk
+106,8,302,Heart Disease Risk
+82,14,336,Heart Disease Risk
+168,16,149,Healthy
+86,8,181,Healthy
+153,16,205,Healthy
+210,10,296,Diabetes & Heart Disease Risk
+169,16,266,Heart Disease Risk
+145,16,318,Heart Disease Risk
+97,11,202,Healthy
+180,12,188,Healthy
+168,16,299,Heart Disease Risk
+192,12,347,Diabetes & Heart Disease Risk
+122,14,263,Heart Disease Risk
+126,14,228,Healthy
+111,17,286,Heart Disease Risk
+211,17,252,Diabetes Risk
+232,14,340,Diabetes & Heart Disease Risk
+144,9,195,Healthy
+78,17,305,Heart Disease Risk
+214,13,126,Diabetes Risk
+243,15,289,Diabetes & Heart Disease Risk
+206,9,146,Diabetes Risk
+191,9,124,Diabetes Risk
+98,12,285,Heart Disease Risk
+152,15,228,Healthy
+134,13,264,Heart Disease Risk
+140,16,164,Healthy
+201,11,189,Diabetes Risk
+228,10,308,Diabetes & Heart Disease Risk
+177,13,286,Heart Disease Risk
+160,17,209,Healthy
+88,14,245,Healthy
+242,9,339,Diabetes & Heart Disease Risk
+195,17,267,Diabetes & Heart Disease Risk
+130,16,286,Heart Disease Risk
+70,10,324,Heart Disease Risk
+161,16,310,Heart Disease Risk
+182,16,175,Diabetes Risk
+230,13,236,Diabetes Risk
+203,17,163,Diabetes Risk
+242,12,199,Diabetes Risk
+187,12,322,Diabetes & Heart Disease Risk
+233,10,266,Diabetes & Heart Disease Risk
+89,16,265,Heart Disease Risk
+116,16,168,Healthy
+83,8,236,Healthy
+123,13,122,Healthy
+213,14,304,Diabetes & Heart Disease Risk
+81,17,343,Heart Disease Risk
+85,15,221,Healthy
+221,12,127,Diabetes Risk
+191,11,209,Diabetes Risk
+205,17,179,Diabetes Risk
+247,12,160,Diabetes Risk
+224,13,310,Diabetes & Heart Disease Risk
+214,16,280,Diabetes & Heart Disease Risk
+226,10,253,Diabetes Risk
+151,10,316,Heart Disease Risk
+116,16,313,Heart Disease Risk
+79,15,149,Healthy
+178,12,238,Healthy
+102,13,184,Healthy
+215,8,130,Diabetes Risk
+154,17,182,Healthy
+155,8,324,Heart Disease Risk
+230,9,224,Diabetes Risk
+168,8,268,Heart Disease Risk
+124,13,339,Heart Disease Risk
+164,12,221,Healthy
+72,12,142,Healthy
+122,12,321,Heart Disease Risk
+152,8,204,Healthy
+147,16,229,Healthy
+70,10,292,Heart Disease Risk
+73,8,232,Healthy
+101,9,211,Healthy
+164,15,158,Healthy
+223,17,281,Diabetes & Heart Disease Risk
+187,10,242,Diabetes Risk
+119,8,173,Healthy
+202,16,264,Diabetes & Heart Disease Risk
+181,14,326,Diabetes & Heart Disease Risk
+154,9,194,Healthy
+248,14,285,Diabetes & Heart Disease Risk
+107,9,217,Healthy
+151,10,310,Heart Disease Risk
+121,16,285,Heart Disease Risk
+148,14,225,Healthy
+120,8,252,Healthy
+98,11,257,Healthy
+214,17,136,Diabetes Risk
+153,15,188,Healthy
+103,13,172,Healthy
+195,10,230,Diabetes Risk
+220,14,199,Diabetes Risk
+164,13,263,Heart Disease Risk
+77,11,223,Healthy
+201,15,144,Diabetes Risk
+165,10,274,Heart Disease Risk
+162,9,180,Healthy
+191,10,266,Diabetes & Heart Disease Risk
+90,12,329,Heart Disease Risk
+161,17,180,Healthy
+91,12,189,Healthy
+70,12,131,Healthy
+159,9,296,Heart Disease Risk
+147,17,164,Healthy
+224,16,145,Diabetes Risk
+116,16,333,Heart Disease Risk
+125,8,145,Healthy
+105,8,127,Healthy
+182,10,299,Diabetes & Heart Disease Risk
+116,15,333,Heart Disease Risk
+83,17,147,Healthy
+147,15,249,Healthy
+178,17,133,Healthy
+125,10,126,Healthy
+72,14,226,Healthy
+87,17,157,Healthy
+184,16,238,Diabetes Risk
+97,17,158,Healthy
+86,14,205,Healthy
+195,16,264,Diabetes & Heart Disease Risk
+82,11,144,Healthy
+137,17,186,Healthy
+178,9,230,Healthy
+180,13,153,Healthy
+180,15,287,Heart Disease Risk
+182,10,161,Diabetes Risk
+238,12,125,Diabetes Risk
+249,17,183,Diabetes Risk
+128,13,348,Heart Disease Risk
+190,8,300,Diabetes & Heart Disease Risk
+219,12,317,Diabetes & Heart Disease Risk
+139,14,231,Healthy
+73,15,174,Healthy
+206,14,250,Diabetes Risk
+100,15,348,Heart Disease Risk
+105,15,342,Heart Disease Risk
+75,9,331,Heart Disease Risk
+144,11,198,Healthy
+203,13,232,Diabetes Risk
+163,15,349,Heart Disease Risk
+248,16,313,Diabetes & Heart Disease Risk
+148,15,145,Healthy
+248,12,189,Diabetes Risk
+223,13,187,Diabetes Risk
+88,11,344,Heart Disease Risk
+89,8,259,Healthy
+116,8,209,Healthy
+211,13,156,Diabetes Risk
+195,11,196,Diabetes Risk
+72,8,253,Healthy
+247,15,129,Diabetes Risk
+74,14,257,Healthy
+241,9,132,Diabetes Risk
+237,9,203,Diabetes Risk
+134,12,192,Healthy
+86,16,322,Heart Disease Risk
+212,15,157,Diabetes Risk
+232,8,188,Diabetes Risk
+131,9,197,Healthy
+186,15,322,Diabetes & Heart Disease Risk
+206,9,195,Diabetes Risk
+104,8,159,Healthy
+133,13,179,Healthy
+133,15,130,Healthy
+174,12,133,Healthy
+129,10,332,Heart Disease Risk
+234,12,202,Diabetes Risk
+192,17,181,Diabetes Risk
+201,16,161,Diabetes Risk
+158,9,159,Healthy
+141,14,223,Healthy
+83,10,244,Healthy
+235,8,142,Diabetes Risk
+132,8,272,Heart Disease Risk
+214,8,313,Diabetes & Heart Disease Risk
+122,15,223,Healthy
+248,14,298,Diabetes & Heart Disease Risk
+203,10,254,Diabetes Risk
+248,15,161,Diabetes Risk
+84,8,341,Heart Disease Risk
+224,11,276,Diabetes & Heart Disease Risk
+107,16,216,Healthy
+224,14,152,Diabetes Risk
+155,9,129,Healthy
+74,17,216,Healthy
+187,13,260,Diabetes Risk
+228,11,228,Diabetes Risk
+249,15,134,Diabetes Risk
+226,15,124,Diabetes Risk
+226,11,195,Diabetes Risk
+242,9,274,Diabetes & Heart Disease Risk
+164,10,283,Heart Disease Risk
+105,17,162,Healthy
+96,12,267,Heart Disease Risk
+80,17,223,Healthy
+107,13,319,Heart Disease Risk
+92,17,165,Healthy
+176,17,260,Healthy
+173,9,336,Heart Disease Risk
+180,15,179,Healthy
+240,11,187,Diabetes Risk
+202,15,156,Diabetes Risk
+141,17,211,Healthy
+100,17,256,Healthy
+120,15,160,Healthy
+80,14,120,Healthy
+115,12,268,Heart Disease Risk
+159,11,301,Heart Disease Risk
+126,8,182,Healthy
+124,10,287,Heart Disease Risk
+212,12,294,Diabetes & Heart Disease Risk
+122,16,321,Heart Disease Risk
+249,16,236,Diabetes Risk
+223,16,154,Diabetes Risk
+132,11,144,Healthy
+159,13,249,Healthy
+204,9,338,Diabetes & Heart Disease Risk
+231,8,247,Diabetes Risk
+240,10,301,Diabetes & Heart Disease Risk
+221,16,318,Diabetes & Heart Disease Risk
+249,13,207,Diabetes Risk
+230,8,148,Diabetes Risk
+132,13,273,Heart Disease Risk
+225,9,332,Diabetes & Heart Disease Risk
+118,14,200,Healthy
+153,16,296,Heart Disease Risk
+217,13,205,Diabetes Risk
+132,15,168,Healthy
+140,8,343,Heart Disease Risk
+210,14,298,Diabetes & Heart Disease Risk
+192,15,330,Diabetes & Heart Disease Risk
+131,8,292,Heart Disease Risk
+99,15,138,Healthy
+87,8,197,Healthy
+184,9,313,Diabetes & Heart Disease Risk
+182,9,341,Diabetes & Heart Disease Risk
+235,10,182,Diabetes Risk
+201,8,127,Diabetes Risk
+226,14,222,Diabetes Risk
+200,17,321,Diabetes & Heart Disease Risk
+179,9,243,Healthy
+156,14,339,Heart Disease Risk
+101,9,254,Healthy
+162,15,184,Healthy
+126,14,186,Healthy
+141,13,348,Heart Disease Risk
+136,10,216,Healthy
+161,15,281,Heart Disease Risk
+104,15,197,Healthy
+101,15,165,Healthy
+213,11,284,Diabetes & Heart Disease Risk
+211,14,295,Diabetes & Heart Disease Risk
+76,17,126,Healthy
+230,14,204,Diabetes Risk
+216,10,155,Diabetes Risk
+98,9,121,Healthy
+198,12,267,Diabetes & Heart Disease Risk
+80,17,249,Healthy
+188,11,124,Diabetes Risk
+106,13,341,Heart Disease Risk
+206,9,172,Diabetes Risk
+241,10,205,Diabetes Risk
+177,15,200,Healthy
+227,15,178,Diabetes Risk
+197,8,233,Diabetes Risk
+184,8,133,Diabetes Risk
+78,15,313,Heart Disease Risk
+94,14,320,Heart Disease Risk
+91,11,273,Heart Disease Risk
+98,9,334,Heart Disease Risk
+106,13,265,Heart Disease Risk
+197,12,161,Diabetes Risk
+169,16,285,Heart Disease Risk
+103,8,284,Heart Disease Risk
+222,13,241,Diabetes Risk
+145,14,236,Healthy
+175,13,332,Heart Disease Risk
+96,16,150,Healthy
+203,15,217,Diabetes Risk
+81,16,172,Healthy
+207,8,273,Diabetes & Heart Disease Risk
+191,9,173,Diabetes Risk
+176,8,170,Healthy
+105,10,145,Healthy
+98,12,130,Healthy
+109,11,232,Healthy
+108,15,346,Heart Disease Risk
+123,9,174,Healthy
+180,15,269,Heart Disease Risk
+138,15,152,Healthy
+105,11,330,Heart Disease Risk
+150,9,320,Heart Disease Risk
+223,9,192,Diabetes Risk
+109,8,248,Healthy
+130,15,161,Healthy
+94,14,154,Healthy
+200,9,348,Diabetes & Heart Disease Risk
+177,10,341,Heart Disease Risk
+171,9,131,Healthy
+88,12,163,Healthy
+118,8,193,Healthy
+126,14,166,Healthy
+81,15,202,Healthy
+77,12,200,Healthy
+187,13,319,Diabetes & Heart Disease Risk
+94,9,208,Healthy
+81,17,228,Healthy
+95,17,135,Healthy
+214,14,145,Diabetes Risk
